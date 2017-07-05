@@ -1,4 +1,4 @@
 
 # This is Heading 1
 
-This is my new document.
+[Introduction](https://neetapatke.github.io/new_docs/intro)
